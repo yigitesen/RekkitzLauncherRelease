@@ -6,7 +6,7 @@
 
 ## How does Rekkitz Launcher work?
 
-&nbsp;First of all we used ElectronJS for the front-end. ElectronJS combines the Chromium rendering engine and the Node.js runtime. In this way, we easily benefited from the open-source universe of the JS world during the development process. In the front-end design and architectural process, our priority has been to create a user-friendly and user-friendly product.
+&nbsp;First of all we used ElectronJS for the front-end. ElectronJS combines the Chromium rendering engine and the Node.js runtime. In this way, we easily benefited from the open-source universe of the JS world during the development process. In the front-end design and architectural process, our priority has been to create a user-friendly and easy to use product.
 
 &nbsp;So what's going on in the background? We used Spring framework in the back-end; In this way, things are as fluid and simple as front-end. At this point, our priority has been to ensure that our systems are not interrupted at the end-user point while serving hundreds and thousands of users and to maximize the security of user data.
 
